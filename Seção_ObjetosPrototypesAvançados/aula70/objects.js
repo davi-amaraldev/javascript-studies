@@ -12,4 +12,3 @@ const p2 = new Pessoa('Luís Felipe');
 
 console.log(p1);
 console.log(p2);
-
