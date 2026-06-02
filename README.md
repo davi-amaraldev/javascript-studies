@@ -137,15 +137,6 @@ Durante o curso foram criados diversos projetos práticos para aplicar os concei
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davi-amaraldev&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-amaraldev&layout=compact" />
-</p>
-
----
-
 ## 📝 Observações
 
 Este repositório está em constante atualização conforme avanço nos estudos e desenvolvo novos exercícios e projetos.
